@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/halilksya/halilksya/snake/snake.svg" alt="snake" />
 </picture>
 
-<hr />
 <img align="right" src="assets/Pink.webp" alt="photo" width="100" />
 
 <p>
@@ -18,7 +17,6 @@
 
 <br clear="right" />
 
-<hr />
 <h3 align="center">Contact:</h3>
 
 <p align="center">
@@ -35,6 +33,7 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" width="38" height="38" />
   </a>
 </p>
+
 
 <h3 align="center">Languages And Tools</h3>
 
@@ -77,7 +76,7 @@
     <img src="assets/avalonia.png" alt="avalonia" width="40" height="40" />
   </a>
 </p>
-<hr />
+
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=halilksya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7BA7C7&text_color=C9D1D9&icon_color=E8A33D" alt="github stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilksya&layout=compact&hide_border=true&bg_color=0D1117&title_color=7BA7C7&text_color=C9D1D9" alt="top languages" />
@@ -87,11 +86,9 @@
   <img src="https://streak-stats.demolab.com?user=halilksya&hide_border=true&background=0D1117&stroke=1F2937&ring=E8A33D&fire=E8A33D&currStreakLabel=7BA7C7&sideLabels=C9D1D9&dates=6E7681&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="streak" />
 </div>
 
-<hr />
 <div align="center">
   <img src="assets/banner.jpg" alt="banner" width="100%" />
 </div>
-<hr />
 <p align="center">
   <sub>• I love the C family btw &lt;3</sub>
 </p>
