@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/halilksya/halilksya/snake/snake.svg" alt="snake" />
 </picture>
 
-<img align="right" src="assets/Pink.webp" alt="photo" width="100" />
+<img align="right" src="assets/Pink.webp" alt="photo" width="130" />
 
 <p>
   Hi, I'm Halil — a third-year software engineering student.<br />
@@ -35,7 +35,7 @@
 </p>
 
 
-<h3 align="center">Languages And Tools</h3>
+<h3 align="center">Languages And Tools:</h3>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -77,10 +77,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=halilksya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7BA7C7&text_color=C9D1D9&icon_color=E8A33D" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilksya&layout=compact&hide_border=true&bg_color=0D1117&title_color=7BA7C7&text_color=C9D1D9" alt="top languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=halilksya&hide_border=true&background=0D1117&stroke=1F2937&ring=E8A33D&fire=E8A33D&currStreakLabel=7BA7C7&sideLabels=C9D1D9&dates=6E7681&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="streak" />
