@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/halilksya/halilksya/snake/snake.svg" alt="snake" />
 </picture>
 
-<img align="right" src="assets/Pink.webp" alt="photo" width="130" />
+<img align="right" src="assets/Pink.webp" alt="photo" width="120" />
 
 <p>
   Hi, I'm Halil — a third-year software engineering student.<br />
