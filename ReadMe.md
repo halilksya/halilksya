@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="center">Languages And Tools</h3>
+<h3 align="center">Languages And Tools:</h3>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>&nbsp;&nbsp;
